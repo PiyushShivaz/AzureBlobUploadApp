@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlobUploadApp", "AzureBlobUploadApp\AzureBlobUploadApp.csproj", "{14B60007-ADE4-9C25-E907-21F07BBB486E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B60007-ADE4-9C25-E907-21F07BBB486E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B60007-ADE4-9C25-E907-21F07BBB486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B60007-ADE4-9C25-E907-21F07BBB486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B60007-ADE4-9C25-E907-21F07BBB486E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CFDE372-A38B-448D-8AEA-6F08F3596457}
+	EndGlobalSection
+EndGlobal

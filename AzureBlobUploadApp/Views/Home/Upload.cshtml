@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Upload File";
+}
+
+<div class="text-center mt-5">
+    <h2>Upload to Azure Blob Storage</h2>
+    <form asp-action="UploadFile" method="post" enctype="multipart/form-data" class="mt-4" style="max-width: 400px; margin: auto;">
+        <div class="form-group mb-3">
+            <input type="file" name="file" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-success w-100">Upload</button>
+        
+        @if (ViewBag.Message != null)
+        {
+            <div class="alert alert-success mt-3">@ViewBag.Message</div>
+        }
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger mt-3">@ViewBag.Error</div>
+        }
+    </form>
+</div>

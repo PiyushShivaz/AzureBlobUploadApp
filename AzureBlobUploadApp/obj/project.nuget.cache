@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OKcB8Afxd8=",
+  "success": true,
+  "projectFilePath": "/workspaces/AzureBlobUploadApp/AzureBlobUploadApp/AzureBlobUploadApp.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/azure.core/1.50.0/azure.core.1.50.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.storage.blobs/12.27.0/azure.storage.blobs.12.27.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/azure.storage.common/12.26.0/azure.storage.common.12.26.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.clientmodel/1.8.0/system.clientmodel.1.8.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.io.hashing/10.0.1/system.io.hashing.10.0.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
